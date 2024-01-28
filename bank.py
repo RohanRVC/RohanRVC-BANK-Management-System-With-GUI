@@ -17,7 +17,7 @@ def clear():
            text.delete(1.0, END)
 
 def exite():
-    sys.exit()
+    sys.exit() 
 
 
 
